@@ -34,7 +34,7 @@
   		<groupId>org.hibernate</groupId>
   		<artifactId>hibernate-core</artifactId>
   		<version>
-  			5.2.13.Final
+  			5.4.24.Final
 
   		</version>
   	</dependency>
